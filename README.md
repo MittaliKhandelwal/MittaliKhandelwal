@@ -2,8 +2,6 @@
 
 I am a Creative Graphic Designer. I like to invest my time in Researching and doing creative projects. Skilled in Canva, C/C++,HTML/CSS ,Adobe Light Room, Adobe Photoshop.
 
-Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
-
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rb.gy/a6dtpo)
