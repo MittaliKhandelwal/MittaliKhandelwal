@@ -1,6 +1,6 @@
 # Hi, I'm Mittali! 👋
 
-I am a Creative Graphic Designer. I like to invest my time in Researching and doing creative projects. Skilled in Canva, C/C++,HTML/CSS ,Adobe Light Room, Adobe Photoshop.
+I am an IT Student At The Vivekananda Institute Of Professional Studies (VIPS) In Delhi And Have A Bachelor`s Degree In Computer Applications (BCA). I Am Interested In Graphic Design And Web Development And Are Looking For Exciting Opportunities In This Area. I Believe That The Skills I Have Acquired Through A Dynamic Environment And Competitive College Life Define Me. I Like To Solve Problems And Fix Errors. I am a Detail Orientated Person And I Keep My Goals And Tasks Organized To Maintain Productivity.
 
  
 ## 🔗 Links
