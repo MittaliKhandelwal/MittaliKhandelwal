@@ -4,7 +4,7 @@ I am a Creative Graphic Designer. I like to invest my time in Researching and do
 
  
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rb.gy/a6dtpo)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rebrand.ly/Portfolio-Design)
 [![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://rb.gy/qxbo2m)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittali-khandelwal-8a3188225/)
 
