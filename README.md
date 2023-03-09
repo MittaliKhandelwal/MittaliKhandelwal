@@ -4,7 +4,7 @@ I am an IT Student At The Vivekananda Institute Of Professional Studies (VIPS) I
 
  
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rebrand.ly/Portfolio-Design)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rebrand.ly/mk-pw)
 [![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://rb.gy/qxbo2m)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittali-khandelwal-8a3188225/)
 
