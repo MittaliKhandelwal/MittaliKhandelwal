@@ -1,7 +1,10 @@
 # Hi, I'm Mittali! 👋
 
-I am an IT Student At The Vivekananda Institute Of Professional Studies (VIPS) In Delhi And Have A Bachelor`s Degree In Computer Applications (BCA). I Am Interested In Graphic Design And Web Development And Are Looking For Exciting Opportunities In This Area. I Believe That The Skills I Have Acquired Through A Dynamic Environment And Competitive College Life Define Me. I Like To Solve Problems And Fix Errors. I am a Detail Orientated Person And I Keep My Goals And Tasks Organized To Maintain Productivity.
-
+As an aspiring data analyst, I am equipped with a solid academic background in Bachelors of Computer Application,
+complemented by hands-on experience with key data analysis tools and languages such as Python and SQL. Eager to
+apply my analytical skills and fresh perspectives to real-world challenges, I am committed to learning and adapting
+in a dynamic professional environment. My goal is to contribute effectively to a team, leveraging my passion for
+data-driven insights to support informed decision-making and drive positive outcomes for the organization.
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rebrand.ly/mk-pw)
